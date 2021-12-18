@@ -1,5 +1,5 @@
 
-Для запуска из командной строки:
+**Для запуска из командной строки:**
 
 Показать меню:
 ```
@@ -20,7 +20,7 @@ python aaa_python_final.py order pepperoni --delivery_flg --big_flg
 ```
 
 
-Тесты:
+**Тесты:**
 
 ```
 coverage run -m pytest test_aaa_python_final.py
